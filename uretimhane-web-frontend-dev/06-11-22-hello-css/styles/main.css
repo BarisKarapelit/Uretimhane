@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+div {
+  border: 3px dashed white;
+}
+
+header {
+  border: 1px solid aquamarine;
+  color: white;
+}
+main {
+  border: 2px solid rebeccapurple;
+  color: aqua;
+}
+footer {
+  border: 3px solid floralwhite;
+  color: aqua;
+}
+p {
+  border: 1px solid aquamarine;
+  color: white;
+}
